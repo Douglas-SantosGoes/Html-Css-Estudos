@@ -1,0 +1,83 @@
+    @import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@400;500;600;700&family=Oswald:wght@200;300;400;500&display=swap');
+
+    @font-face {
+            font-family: idroid;
+            src: local(idroid);
+        }
+        
+        h1 {
+            text-align: center;
+            font: 500 3em Oswald, Arial, 'Sans Seriff';
+            color: white;
+        }
+        
+        h2 {
+            font-family:idroid;
+            background-color: rgba(123, 226, 20, 0.911);
+            text-indent: 30px;
+        }
+        
+        p {
+            font: bold 1.2em 'Times New Roman',Arial, 'Sans Seriff';
+            margin-left: 30px;
+            margin-right: 30px;
+            text-align: justify;
+            text-indent: 30px;
+        }
+        p#indice {
+            text-align: center;
+            font: normal 1.2em helvetica, arial, 'sans seriff';
+
+
+        }
+        .indice {
+            font: normal 1em Arial, 'Sans Seriff';
+            color: white;
+            text-align: center;
+            background-image: linear-gradient(to bottom, rgb(64, 235, 141), rgb(27, 97, 57));
+        }
+    
+    .conteudo {
+        background-color: rgb(255, 255, 255);
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+      
+    .pagina-inteira {
+        background-color: rgb(132, 225, 173);
+
+    }
+
+    .video {
+            text-align:center;
+            background-color: rgb(27, 97, 57);
+    }
+
+    .MENU {
+        text-align: left;
+        margin-top:50px;
+        margin-left: 30px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+    }
+
+    ol {
+        display: block;
+        list-style-type: decimal;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 40px;
+    }
+    
+    .extra-lista {
+        margin-top: 40px;
+        background-color: rgb(173, 255, 47);
+        border-radius: 2em;
+        box-shadow: 4px 3px rgba(0, 0, 0, 0.603);
+    }
+    lista itself {
+
+
+    }
